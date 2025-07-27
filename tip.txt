@@ -1,0 +1,22 @@
+ 이 레포지터리는 Jekyll 기반 GitHub Pages 블로그입니다. 주요 구조는:
+
+  핵심 디렉토리
+
+  - _posts/ - 블로그 포스트 (Markdown 파일)
+  - _config.yml - 사이트 설정
+  - index.md - 홈페이지
+  - _tabs/ - 네비게이션 탭 (About, Archives 등)
+
+  테마 관련
+
+  - _layouts/ - 페이지 템플릿
+  - _includes/ - 재사용 가능한 HTML 조각
+  - _sass/ - 스타일시트
+  - assets/ - 이미지, CSS, JS 파일
+
+  데이터 & 설정
+
+  - _data/ - 사이트 데이터 (작성자 정보, 다국어 지원 등)
+  - Gemfile - Ruby 의존성
+
+  이는 Chirpy 테마를 사용한 Jekyll 블로그로, GitHub Pages에서 자동으로 빌드됩니다.
