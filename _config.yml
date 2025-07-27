@@ -16,10 +16,11 @@ timezone: Asia/Seoul
 
 title: MJS Lab # the main title
 
-tagline: 연구와 개발을 기록하는 공간 # it will display as the subtitle
+tagline: 연구와 개발을 기록하는 공간 🚀 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  연구개발과 기술적 성장을 기록하고 공유하는 개인 블로그입니다.
+  수소에너지 연구원이 운영하는 기술 블로그입니다. 연구개발 과정의 인사이트, 
+  데이터 분석, 프로그래밍 팁, 그리고 최신 논문 리뷰를 공유합니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
