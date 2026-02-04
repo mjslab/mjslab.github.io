@@ -15,7 +15,6 @@
 - Python, C++
 - 역학 (최적화, 헤밀토니안)
 - 시뮬레이션 (MD, MLP)
-- 상경
 
 ## Trajactory
 
